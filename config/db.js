@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose');   //This is the library used to connect to MongoDB.
 const dotenv = require('dotenv');
 
 dotenv.config();
